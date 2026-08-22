@@ -1,4 +1,4 @@
-# Hi, I'm Zahid Ammar 👋
+# Hi, I'm Ammar Zahid 👋
 
 💻 **Junior Web Developer**
 🚀 **Laravel & PHP Enthusiast**
@@ -12,11 +12,6 @@
 I'm a junior web developer interested in building web applications using **Laravel, PHP, MySQL, and JavaScript**.
 
 I enjoy creating practical applications, learning new technologies, and improving my programming skills through projects and real-world challenges.
-
----
----
-
-
 
 ---
 ---
