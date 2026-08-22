@@ -5,6 +5,7 @@
 📚 Currently learning Web Development & Software Engineering
 
 ---
+---
 
 ## 👨‍💻 About Me
 
@@ -12,6 +13,7 @@ I'm a junior web developer interested in building web applications using **Larav
 
 I enjoy creating practical applications, learning new technologies, and improving my programming skills through projects and real-world challenges.
 
+---
 ---
 
 ## 🛠️ Tech Stack
@@ -40,13 +42,9 @@ I enjoy creating practical applications, learning new technologies, and improvin
 * VS Code
 * Laragon
 
+
+
 ---
-
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zahidxammar-code\&show_icons=true\&theme=default)
-
 ---
 
 ## 📈 Currently Learning
@@ -59,6 +57,7 @@ I enjoy creating practical applications, learning new technologies, and improvin
 * Web Deployment
 
 ---
+---
 
 ## 🎯 Goals
 
@@ -68,6 +67,7 @@ I enjoy creating practical applications, learning new technologies, and improvin
 * Build a strong developer portfolio
 * Contribute to open-source projects
 
+---
 ---
 
 ## 📫 Connect With Me
