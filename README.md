@@ -16,56 +16,7 @@ I enjoy creating practical applications, learning new technologies, and improvin
 ---
 ---
 
-## 🛠️ Tech Stack
 
-**Backend**
-
-* PHP
-* Laravel
-
-**Frontend**
-
-* HTML
-* CSS
-* JavaScript
-* Blade
-* Tailwind CSS
-
-**Database**
-
-* MySQL
-
-**Tools**
-
-* Git
-* GitHub
-* VS Code
-* Laragon
-
-
-
----
----
-
-## 📈 Currently Learning
-
-* Advanced Laravel
-* REST API
-* Database Design
-* Authentication & Authorization
-* Git & GitHub
-* Web Deployment
-
----
----
-
-## 🎯 Goals
-
-* Build production-ready web applications
-* Improve my Laravel development skills
-* Learn modern backend development
-* Build a strong developer portfolio
-* Contribute to open-source projects
 
 ---
 ---
@@ -81,6 +32,7 @@ Coming soon 🚀
 **LinkedIn:**
 Coming soon
 
+---
 ---
 
 ⭐ Thanks for visiting my profile!
