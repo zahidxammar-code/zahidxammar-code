@@ -1,9 +1,12 @@
+<div align="center">
+
 # Hi, I'm Ammar Zahid 👋
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=%F0%9F%92%BB+Junior+Web+Developer;%F0%9F%9A%80+Laravel+%26+PHP+Enthusiast;%F0%9F%93%9A+Currently+learning+Web+Development+%26+Software+Engineering" alt="Typing Animation" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=%F0%9F%92%BB+Junior+Web+Developer;%F0%9F%9A%80+Laravel+%26+PHP+Enthusiast;%F0%9F%93%9A+Currently+learning+Web+Development+%26+Software+Engineering" alt="Typing Animation" />
 
+</div>
+
+---
 ---
 
 ### 👨‍💻 About Me
